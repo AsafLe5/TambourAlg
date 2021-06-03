@@ -1,4 +1,4 @@
-// const Pixel = require('./Pixel').Pixel;
+const Pixel = require('./Pixel').Pixel;
 class colorProfile{
     constructor(pixel) {
         this.pixel = pixel;
